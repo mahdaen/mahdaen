@@ -1,5 +1,5 @@
 # Hi there! 👋
-I’m Nanang, your friendly neighborhood **Self-Taught Full-Stack Engineer** 🚀. I’ve been on this wild coding adventure since **2008**, and let me tell you, it’s been a rollercoaster of curly braces, semicolons, and late-night debugging sessions. But hey, that’s where the magic happens, right? ✨
+I’m Nanang, your friendly neighborhood **Self-Taught Front-End Engineer** 🚀. I’ve been on this wild coding adventure since **2008**, and let me tell you, it’s been a rollercoaster of curly braces, semicolons, and late-night debugging sessions. But hey, that’s where the magic happens, right? ✨
 
 ![journey](https://github.com/mahdaen/mahdaen/assets/1680665/90d989fb-552f-46be-a12a-0e1880236b21)
 
