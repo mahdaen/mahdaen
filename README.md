@@ -10,14 +10,12 @@ sessions. But hey, that’s where the magic happens, right? ✨
 
 * **Front-End Sorcery**: I weave pixel-perfect spells with **CSS** and **Javascript**. Whether it’s crafting responsive
 layouts or conjuring interactive UIs, I’ve got you covered.
-* **Alchemy Beyond Hype**: While others chase the latest buzzwords and trends, I delve deeper. I seek **practical magic
-**—the tools that fit the project like a well-worn cloak. Whether it’s a mystical Svelte incantation or a Cloudflare
+* **Alchemy Beyond Hype**: While others chase the latest buzzwords and trends, I delve deeper. I seek **practical magic** —the tools that fit the project like a well-worn cloak. Whether it’s a mystical Svelte incantation or a Cloudflare
 Workers enchantment, I choose wisely.
 * **Code Compass**: My compass doesn’t point north; it points to the **most suitable solution**. Front-End? Serverless?
 I’ve danced with them all. **JavaScript** and **TypeScript** are my trusty wands, and **Svelte & SvelteKit**? Ah,
 they’re my favorite spells.
-* **Serverless Enchantments**: Ever seen a server vanish into thin air? That’s my specialty! I wield the power of *
-*Cloudflare Workers**, **Vercel**, **Firebase**, and **Supabase** to create cloud-native wonders.
+* **Serverless Enchantments**: Ever seen a server vanish into thin air? That’s my specialty! I wield the power of **Cloudflare Workers**, **Vercel**, **Firebase**, and **Supabase** to create cloud-native wonders.
 
 ### 🏹 Join Me on This Quest!
 
